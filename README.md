@@ -11,8 +11,7 @@ O projeto consiste na criação de uma página, utilizando HTML, CSS e JavaScrip
 
 ## A página em execução 👀
 
-https://github.com/ContiRodrigues/js-dom-digital-piano/assets/106720974/623a29b8-f00a-4942-83da-72289e4dd580
-
+https://github.com/ContiRodrigues/js-filtrar-elementos/assets/106720974/89fbc577-734b-476e-b45f-91a0e0955915
 
 ## Links 📒 :
 
